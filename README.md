@@ -1,8 +1,10 @@
 # Salinpaul-ValooranSpring_MVCLabSolution
 
+Create a Dynamic web project named DebateRegistration in eclipse
+
 Create a schema in MySql 8 named library
 
-update your MySql server and password in servlet.xml file
+update your MySql server user and password in servlet.xml file
 
 after starting of server go to /forms
 
